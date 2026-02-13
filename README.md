@@ -3,8 +3,6 @@
 Welcome to **Radiant Glow**, a modern and elegant skincare product showcase platform.  
 Designed to present cleansers, moisturizers, sunscreens, and other beauty essentials in a **clean, responsive, and user-friendly interface**.
 
-![Radiant Glow Banner](https://via.placeholder.com/800x200?text=Radiant+Glow+Platform)
-
 ---
 
 ## ✨ Features
@@ -16,7 +14,3 @@ Designed to present cleansers, moisturizers, sunscreens, and other beauty essent
 - Clean, readable, and maintainable **MERN** code.
 
 ---
-
-
-## 📂 Project Structure
-
